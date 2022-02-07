@@ -1,5 +1,9 @@
 # 烟花模拟器
 
+纯搬运无修改
+
+# 原作信息
+
 注意：此源码是基于 [XgpNwb](https://codepen.io/MillerTime/pen/XgpNwb) 的二次修改
 
 我仅作翻译处理以及其他优化
